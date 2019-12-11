@@ -7,13 +7,13 @@
 #<<<<<<< HEAD
 class CCIE:
     '''A class to describe a CCIE-certified engineer'''
-    def  __init__(self):
+    defination  __init__(self):
         self.name = ''
         self.salary = ''
         self.iq = ''
         self.homeless = True
 
-    def setName(self, name=''):
+def setName(self, name=''):
         self.name = name
 
 
